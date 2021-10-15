@@ -7,7 +7,7 @@ After taking a look around the school environment, both literally in terms of th
 
 ### Analysis
 
-These observations sparked many ideas for me on ways to solve problems involving them or even just show why something might not work in our society, especially within the community and environment these observations were made in. For example, the biggest problem i found with first class is that sometimes emails glitch and send twice and
+These observations sparked many ideas for me on ways to solve problems involving them or even just show why something might not work in our society, especially within the community and environment these observations were made in. For example, the biggest problem i found with first class is that sometimes emails glitch and send twice which ruin the overall experience and make interactions within the application more difficult than intended. 
 
 
 ### Description of Procedure
